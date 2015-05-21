@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/7100AlarmHelp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/7100AlarmHelpSDH.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/Generic.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/mTeraAlarmHelp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/ots_fp30.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/UCframeworkClasses.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/bin/UCIDLClasses.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/7100AlarmHelp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/7100AlarmHelpSDH.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/avalon-framework-4.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-css.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-ext.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-gui-util.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-script.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-transcoder.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-util.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/batik-xml.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/bcprov.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/bsf-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/cid.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/commons-net-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/geoapi.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/geoapi-legacy.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/gll.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/Graph2d.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/helpapi.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/hssf.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/idl.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/itext-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jacorb.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jai_codec.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jai_core.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jaxp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jcalendar.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jcchartK.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jcswingsuite400K.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jdic.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jfreereport-0.8.8-04.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jh.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-action.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-beaninfo.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-common.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-components.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-designer.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-dialogs.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-dock.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-grids.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-pivot.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jide-shortcut.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jlayout30.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jloox20.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/js.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jsr.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/jts.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/libfonts-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/libformula-0.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/libloader-0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/libloader-0.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/libxml-0.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/logkit-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/lxgis20.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/mTeraAlarmHelp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/notify.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/parser.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/picocontainer-1.2-021105.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/pixie-0.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/poi-3.0-alpha1-20050704.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/sftp.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/ss_css2.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/storypad.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/svg.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/svg2jlx.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/velocity.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/wrapper-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/misc/xml.jar"/>
+	<classpathentry kind="lib" path="C:/Coriant/Coriant_7190_EMS/EMS/cfg"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
